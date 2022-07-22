@@ -23,6 +23,8 @@
             <Item>*/.Spotlight-V100/</Item>
             <Item>*/.TemporaryItems/</Item>
             <Item>*/.Trashes/</Item>
+            <Item>/Local/</Item>
+            <Item>/Log/</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -30,7 +32,7 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>/Users/kiros33/Projects/zionex.com/sublimetext-config/macOS</Left>
+            <Left>/Users/kiros33/Library/Application Support/Sublime Text</Left>
             <Right>/Users/kiros33/Projects/sublimetext-config/macOS</Right>
         </Pair>
     </FolderPairs>
