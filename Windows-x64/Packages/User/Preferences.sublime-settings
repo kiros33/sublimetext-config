@@ -19,5 +19,5 @@
 
 	"autocomplete": true,
 	"color_scheme": "Mariana.sublime-color-scheme",
-	"index_files": false,
+	"index_files": true,
 }
