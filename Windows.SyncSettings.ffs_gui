@@ -24,6 +24,11 @@
             <Item>\RECYCLE?\</Item>
             <Item>\Recovery\</Item>
             <Item>*\thumbs.db</Item>
+            <Item>\Lib\</Item>
+            <Item>\Local\</Item>
+            <Item>\Log\</Item>
+            <Item>\Trash\</Item>
+            <Item>\Backup\</Item>
         </Exclude>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
